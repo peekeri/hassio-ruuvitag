@@ -1,0 +1,10 @@
+{
+  "name": "RuuviTag Logger",
+  "version": "1",
+  "slug": "ruuvitag_logger",
+  "description": "RuuviTag logger for pushing data to InfluxDB",
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
